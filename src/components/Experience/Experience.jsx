@@ -3,7 +3,7 @@ import React from "react";
 const Experience = () => {
   return (
     <div>
-      <h2 className="text-[#F78A83] text-4xl mt-4 col-span-2 text-center mb-4">
+      <h2 className="text-[#F78A83] text-4xl mt-4 text-center mb-4">
         EXPERIENCIA LABORAL
       </h2>
       <div className="ml-10 text-justify mr-10 mb-5">
@@ -53,7 +53,7 @@ const Experience = () => {
           previstas, bajo el liderazgo de los instructores SENA.
         </p>
       </div>
-      <hr className="border-2 border-[#83EFF7] ml-6 mr-6" />
+      <hr className="border-2 border-[#83EFF7] ml-6 mr-6 md:hidden" />
     </div>
   );
 };
