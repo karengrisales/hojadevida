@@ -10,7 +10,7 @@ const Information = () => {
           <h2 className="text-[#F78A83] text-4xl mt-4 text-center mb-4">
             INFORMACIÓN
           </h2>
-          <ul className="ml-10 grid grid-cols-2 mb-4">
+          <ul className="ml-10 grid grid-cols-2 md:grid-cols-1 lg:grid-cols-1 mb-4">
             <li className="m-2">
               Tel:
               <br />
@@ -51,12 +51,12 @@ const Information = () => {
           <h2 className="text-[#F78A83] text-4xl mt-4 text-center mb-4">
             HABILIDADES
           </h2>
-          <ul className="list-disc list-inside ml-10 grid grid-cols-2 mb-4">
-            <li>HTML/CSS</li>
-            <li>JavaScript</li>
-            <li>ReactJS</li>
-            <li>Metodologías ágiles</li>
-            <li>Hubspot</li>
+          <ul className="list-disc list-inside ml-10 grid grid-cols-2 md:grid-cols-1 lg:grid-cols-1 mb-4">
+            <li className="pb-3">HTML/CSS</li>
+            <li className="pb-3">JavaScript</li>
+            <li className="pb-3">ReactJS</li>
+            <li className="pb-3">Metodologías ágiles</li>
+            <li className="pb-3">Hubspot</li>
           </ul>
         </div>
       </div>
@@ -66,7 +66,7 @@ const Information = () => {
           <h2 className="text-[#F78A83] text-4xl mt-4 text-center mb-4">
             IDIOMAS
           </h2>
-          <ul className="list-disc list-inside ml-10 grid grid-cols-2 mb-4">
+          <ul className="list-disc list-inside ml-10 grid grid-cols-2 md:grid-cols-1 lg:grid-cols-1 mb-4">
             <li>
               Español <br />
               Nativo
@@ -82,7 +82,7 @@ const Information = () => {
           <h2 className="text-[#F78A83] text-4xl mt-4 text-center mb-4">
             HOBBIES
           </h2>
-          <ul className="list-disc list-inside ml-10 grid grid-cols-2 mb-4">
+          <ul className="list-disc list-inside ml-10 grid grid-cols-2 md:grid-cols-1 lg:grid-cols-1 mb-4">
             <li>Viajar</li>
             <li>Ver series</li>
             <li>Escuchar música</li>
