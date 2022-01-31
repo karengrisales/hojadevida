@@ -68,11 +68,13 @@ const Information = () => {
           </h2>
           <ul className="list-disc list-inside ml-10 grid grid-cols-2 md:grid-cols-1 lg:grid-cols-1 mb-4">
             <li>
-              Español <br />
+              <span className="font-semibold">Español</span>
+              <br />
               Nativo
             </li>
             <li>
-              Inglés <br />
+              <span className="font-semibold">Inglés</span>
+              <br />
               B1
             </li>
           </ul>
