@@ -10,7 +10,7 @@ const Experience = () => {
         <span>2021- Actualidad | Medellín - Antoquia</span>
         <p>
           <br />
-          DESARROLLADOR DE SOFTWARE
+          <span className="font-semibold">DESARROLLADOR DE SOFTWARE</span>
           <br />
           Pragma S.A <br />
           Desarrollo de software en tecnologías FrontEnd, HTML, CSS, JavaScript,
@@ -21,7 +21,7 @@ const Experience = () => {
         <span>2019- 2021 | Medellín - Antoquia</span>
         <p>
           <br />
-          ANALISTA DE TALENTO
+          <span className="font-semibold">ANALISTA DE TALENTO</span>
           <br />
           Pragma S.A <br />
           Captura de talentos en roles técnicos (desarrollo de software) y demás
@@ -33,7 +33,7 @@ const Experience = () => {
         <span>2014- 2016 | Popayán - Cauca</span>
         <p>
           <br />
-          TÉCNICO DE GESTIÓN TECNOLÓGICA
+          <span className="font-semibold">TÉCNICO DE GESTIÓN TECNOLÓGICA</span>
           <br />
           Asmet EPS <br />
           Soporte técnico, servicio al cliente, apoyo en mantenimiento de redes
@@ -46,7 +46,7 @@ const Experience = () => {
         <span>2013- 2013 | Popayán - Cauca</span>
         <p>
           <br />
-          MONITOR
+          <span className="font-semibold">MONITOR</span>
           <br />
           SENA Regional Cauca <br />
           Actividades de apoyo para el fortalecimiento de las competencias

@@ -10,7 +10,7 @@ const Academic = () => {
         <span>2017- Actualidad | Medellín - Antoquia</span>
         <p>
           <br />
-          INGENIERIÍA DE SISTEMAS
+          <span className="font-semibold">INGENIERIÍA DE SISTEMAS</span>
           <br />
           Universidad de Antioquia
         </p>
@@ -19,7 +19,9 @@ const Academic = () => {
         <span>2012- 2014 | Popayán - Cauca</span>
         <p>
           <br />
-          TECNOLOGÍA EN GESTIÓN DE REDES DE DATOS
+          <span className="font-semibold">
+            TECNOLOGÍA EN GESTIÓN DE REDES DE DATOS
+          </span>
           <br />
           SENA Regional Cauca
         </p>

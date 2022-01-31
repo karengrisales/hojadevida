@@ -7,7 +7,7 @@ import Profile from "./components/Profile/Profile";
 
 function App() {
   return (
-    <div className="lg:text-2xl md:text-xl">
+    <div className="lg:text-2xl md:text-xl text-gray-900">
       <Header />
       <div className="lg:grid lg:grid-cols-4 lg:border-t-[3px] lg:border-t-[#83EFF7]">
         <div>

@@ -12,17 +12,17 @@ const Information = () => {
           </h2>
           <ul className="ml-10 grid grid-cols-2 md:grid-cols-1 lg:grid-cols-1 mb-4">
             <li className="m-2">
-              Tel:
+              <span className="font-semibold">Tel:</span>
               <br />
               +57 312 843 8059
             </li>
             <li className="m-2">
-              Dirección:
+              <span className="font-semibold">Dirección:</span>
               <br />
               Popayán- Cauca
             </li>
             <li className="m-2">
-              Correo:
+              <span className="font-semibold">Correo:</span>
               <br />
               yine_net@hotmail.com
             </li>
@@ -32,14 +32,14 @@ const Information = () => {
                   <img
                     src={images.git}
                     alt="logo-github"
-                    className="w-8 h-8 m-2"
+                    className="w-8 h-8 m-2 hover:opacity-60"
                   />
                 </a>
                 <a href="https://www.linkedin.com/in/karen-grisales/">
                   <img
                     src={images.linkedin}
                     alt="logo-linkedin"
-                    className="w-8 h-8 m-2"
+                    className="w-8 h-8 m-2 hover:opacity-60"
                   />
                 </a>
               </div>
