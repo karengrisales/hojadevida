@@ -5,7 +5,7 @@ const Academic = () => {
         <h2 className='text-[#F78A83] text-4xl mt-4 text-center mb-4'>
           INFORMACIÓN ACADÉMICA
         </h2>
-        <span>2017- Actualidad | Medellín - Antoquia</span>
+        <span>2017- Actualidad | Medellín - Antioquia</span>
         <p>
           <br />
           <span className='font-semibold'>INGENIERIÍA DE SISTEMAS</span>
