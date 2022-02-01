@@ -5,7 +5,7 @@ const Experience = () => {
         EXPERIENCIA LABORAL
       </h2>
       <div className='ml-10 text-justify mr-10 mb-5'>
-        <span>2021- Actualidad | Medellín - Antoquia</span>
+        <span>2021- Actualidad | Medellín - Antioquia</span>
         <p>
           <br />
           <span className='font-semibold'>DESARROLLADOR DE SOFTWARE</span>
@@ -16,7 +16,7 @@ const Experience = () => {
         </p>
         <br />
         <br />
-        <span>2019- 2021 | Medellín - Antoquia</span>
+        <span>2019- 2021 | Medellín - Antioquia</span>
         <p>
           <br />
           <span className='font-semibold'>ANALISTA DE TALENTO</span>
