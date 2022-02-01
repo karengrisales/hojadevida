@@ -60,6 +60,11 @@ const Academic = () => {
             <br />
             Platzi
           </li>
+          <li className='m-2'>
+            React JS: La biblioteca de JS creada por Facebook
+            <br />
+            Platzi
+          </li>
         </ul>
       </div>
     </div>
