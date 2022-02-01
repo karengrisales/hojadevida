@@ -55,6 +55,11 @@ const Academic = () => {
             <br />
             Udemy
           </li>
+          <li className='m-2'>
+            Curso de Programación Básica
+            <br />
+            Platzi
+          </li>
         </ul>
       </div>
     </div>
