@@ -28,14 +28,22 @@ const Information = () => {
             </li>
             <li className='m-2'>
               <div className='flex flex-row'>
-                <a href='https://github.com/karengrisales'>
+                <a
+                  href='https://github.com/karengrisales'
+                  rel='noreferrer'
+                  target='_blank'
+                >
                   <img
                     src={github}
                     alt='logo-github'
                     className='w-8 h-8 m-2 hover:opacity-60'
                   />
                 </a>
-                <a href='https://www.linkedin.com/in/karen-grisales/'>
+                <a
+                  href='https://www.linkedin.com/in/karen-grisales/'
+                  rel='noreferrer'
+                  target='_blank'
+                >
                   <img
                     src={linkedin}
                     alt='logo-linkedin'
