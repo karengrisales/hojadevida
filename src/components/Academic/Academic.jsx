@@ -8,7 +8,7 @@ const Academic = () => {
         <span>2017- Actualidad | Medellín - Antioquia</span>
         <p>
           <br />
-          <span className='font-semibold'>INGENIERIÍA DE SISTEMAS</span>
+          <span className='font-semibold'>INGENIERÍA DE SISTEMAS</span>
           <br />
           Universidad de Antioquia
         </p>
